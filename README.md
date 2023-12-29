@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💬 Ask me about whatever
-⚡ Fun fact: There is no cloud, it's just someone else's computer
+
+- 💬 Ask me about whatever
+- ⚡ Fun fact: There is no cloud, it's just someone else's computer
